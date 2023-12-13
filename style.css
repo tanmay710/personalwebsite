@@ -1,0 +1,24 @@
+.profile-img{
+    border-radius: 50%;
+}
+
+.skillset{
+    text-align: center;
+}
+.mylist{
+    display: inline-block;
+    text-align: left;
+}
+
+#hero{
+    background-color: #96EFFF;
+}
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.contback{
+    background-color: #96EFFF;
+}
